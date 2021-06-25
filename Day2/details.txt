@@ -1,0 +1,6 @@
+details 
+
+Basic Java Programs
+1.System.out.println
+2.Variables
+3.Object creation and Function Call
